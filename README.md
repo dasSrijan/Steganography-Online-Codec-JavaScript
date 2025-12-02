@@ -43,7 +43,7 @@ Or add this entry:
 
 directly to your `package.json` in `dependencies` section.
 
-The installation package is available at https://www.npmjs.com/package/radio-code-calculator
+The installation package is available at https://www.npmjs.com/package/steganography-online-codec
 
 ## Packages for other programming languages
 
@@ -51,8 +51,8 @@ The installation packages have been uploaded to repositories for several popular
 
 | Repository   | Language | Installation | Package | GitHub |
 | ------------ | ---------| ------------ | ------- | ------ |
-| ![PyPI repository for Python](https://www.pelock.com/img/logos/repo-pypi.png) | Python | Run `pip install radio-code-calculator` | [PyPi](https://pypi.org/project/steganography-online-codec/) | [Sources](https://github.com/PELock/Steganography-Online-Codec-Python)
-| ![NPM repository for JavaScript and TypeScript](https://www.pelock.com/img/logos/repo-npm.png) | JavaScript, TypeScript | Run `npm i radio-code-calculator` or add the following to `dependencies` section of your `package.json` file `"dependencies": { "steganography-online-codec": "latest" },` | [NPM](https://www.npmjs.com/package/steganography-online-codec) | [Sources](https://github.com/PELock/Steganography-Online-Codec-JavaScript)
+| ![PyPI repository for Python](https://www.pelock.com/img/logos/repo-pypi.png) | Python | Run `pip install steganography-online-codec` | [PyPi](https://pypi.org/project/steganography-online-codec/) | [Sources](https://github.com/PELock/Steganography-Online-Codec-Python)
+| ![NPM repository for JavaScript and TypeScript](https://www.pelock.com/img/logos/repo-npm.png) | JavaScript, TypeScript | Run `npm i steganography-online-codec` or add the following to `dependencies` section of your `package.json` file `"dependencies": { "steganography-online-codec": "latest" },` | [NPM](https://www.npmjs.com/package/steganography-online-codec) | [Sources](https://github.com/PELock/Steganography-Online-Codec-JavaScript)
 
 #### Alternative usage
 
