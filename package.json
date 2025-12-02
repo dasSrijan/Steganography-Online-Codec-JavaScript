@@ -1,0 +1,33 @@
+{
+  "name": "steganography-online-codec",
+  "main": "./src/SteganographyOnlineCodec.mjs",
+  "version": "1.0.0",
+  "description": "Steganography Online Codec allows you to hide a password encrypted message within the images & photos using AES encryption algorithm with a 256-bit PBKDF2 derived key.",
+  "type": "module",
+  "keywords": [
+    "steganography", "stego", "stegano", "cryptography", "security", "image", "secret", "aes", "encryption"
+  ],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Bartosz Wójcik",
+      "email": "support@pelock.com",
+      "homepage": "https://www.pelock.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PELock/Steganography-Online-Codec-JavaScript"
+  },
+  "dependencies": {
+    "form-data": "latest",
+    "node-fetch": "latest"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^29.4.3"
+  },
+  "scripts": {
+    "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest"
+  }
+}
